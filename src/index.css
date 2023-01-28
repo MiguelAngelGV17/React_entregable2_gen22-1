@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+img{
+    display: block;
+    width: max-content;
+}
+
+h1, h2, h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li, ul{
+    padding: 0;
+    list-style: none;
+}
